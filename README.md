@@ -185,7 +185,7 @@ index.html - L22~L41
 </div>
 ```
 
-Then if there is cookies of what you selected before, if will dress up the clothes on bear.
+Then if there is cookies of what you selected before, we will dress up the clothes on bear.
 
 ## Conclusion
 
