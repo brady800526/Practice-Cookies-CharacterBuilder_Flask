@@ -1,6 +1,6 @@
 ## Summary
 
-This repo is a Treehouse Code provided by teacher in Treehouse. We use cookies to save user choices. 
+The code in this repo follows the teacher in Treehouse. By using cookies, we could process the user value more easily.
 
 *All the step is followed by [Flask Basics Course](https://www.youtube.com/watch?v=eBwhBrNbrNI&list=PLXmMXHVSvS-CMpHUeyIeqzs3kl-tIG-8R&index=3) created by Kenneth Love.*
 
