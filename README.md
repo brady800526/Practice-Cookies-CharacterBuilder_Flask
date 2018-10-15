@@ -1,6 +1,6 @@
 ## Summary
 
-The code in this repo follows the teacher in Treehouse. By using cookies, we could process the user value more easily.
+The code in this repo follows the teacher in Treehouse. By using cookies, we could process the save user cookies easily.
 
 *All the step is followed by [Flask Basics Course](https://teamtreehouse.com/library/flask-basics) created by Kenneth Love.*
 
@@ -17,21 +17,21 @@ Download the repo, under the directory run:
 You will see the landing page.
 
 <figure style="text-align: center;">
-    <img src="README_img/LandingPage.png" alt="Landing Page" style="width: 60%; height: 60%"/>
+    <img src="README_img/LandingPage.png" alt="Landing Page" style="width: 80%; height: 90%"/>
     <figcaption style="display: block;">Landing Page</figcaption>
 </figure>
 
 By entering name "Brady", then press 【Let's build it】. User will be send to the builder page.
 
 <figure style="text-align: center;">
-    <img src="README_img/BuilderPage1.png" alt="Builder Page" style="width: 60%; height: 60%"/>
+    <img src="README_img/BuilderPage1.png" alt="Builder Page" style="width: 80%; height: 80%"/>
     <figcaption style="display: block;">Builder Page</figcaption>
 </figure>
 
 One we select the clothes you want the bear to dress on, and press the 【Updata】button. The bear will dress up the new clothes.
 
 <figure style="text-align: center;">
-    <img src="README_img/BuilderPage2/png" alt="Builder Page" style="width: 60%; height: 60%"/>
+    <img src="README_img/BuilderPage2.png" alt="Builder Page" style="width: 80%; height: 80%"/>
     <figcaption style="display: block;">Builder Page</figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ All the logic are placed in the app.py, so we will majorly discuss the app.py.
 In the landing page (index.html), we send the username and press the 【Let's build it】button. Then we redirect to builder page (builder.html), you can see your name on the left top corner. At the mean time, you can put the clothes on the bear as you want.
 
 <figure style="text-align: center;">
-    <img src="README_img/Architecture.jpg" alt="The architecture of this app" style="width: 80%; height: 80%"/>
+    <img src="README_img/Architecture.jpg" alt="The architecture of this app" style="width: 60%; height: 60%"/>
     <figcaption style="display: block;">The architecture of this app</figcaption>
 </figure>
 
